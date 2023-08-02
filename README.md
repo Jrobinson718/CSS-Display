@@ -1,0 +1,1 @@
+Utilizing display and color properties in order to create boxes of the dame dimensions but different color.
